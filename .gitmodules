@@ -1,0 +1,6 @@
+[submodule "Code-ESP32-GreenLand"]
+	path = Code-ESP32-GreenLand
+	url = https://github.com/ayoubm11/Code-ESP32-GreenLand.git
+[submodule "GreenLand"]
+	path = GreenLand
+	url = https://github.com/ayoubm11/GreenLand.git
